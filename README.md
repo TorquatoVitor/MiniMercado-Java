@@ -96,8 +96,4 @@ The application allows users to:
 - [ ] Improve exception handling
 - [ ] Add sales management
 
-## Author
-
-**Vitor Torquato**
-
 Java project developed to practice Object-Oriented Programming, collections, package organization, and basic application logic.
